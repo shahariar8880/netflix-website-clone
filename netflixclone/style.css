@@ -303,7 +303,7 @@ input[type="radio"]{
         flex-direction: column-reverse;
     }
     .features .row{
-        padding: 0 10px;
+        padding:10px 0;
     }
     .faq h2{
         font-size: 20px;
